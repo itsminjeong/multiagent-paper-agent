@@ -103,14 +103,6 @@ PAPER_PROVIDER=semantic_scholar
 streamlit run app.py
 ~~~
 
-
-⸻
-
-## 🎯 스크린샷
-
-검색 / 분석 화면
-코드 레포 탐색 기능
-
 ⸻
 
 ## 🌿 기술 스택
